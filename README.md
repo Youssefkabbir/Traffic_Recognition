@@ -4,12 +4,12 @@
 </p>
 
 [![Downloads](https://img.shields.io/badge/Opencv-install-green)](https://pypi.org/project/opencv-python)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![Anaconda](https://img.shields.io/badge/%20build-passing-brightgreen?style=flat&logo=numpy&logoColor=rgb
+)](https://pypi.org/project/numpy/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 [![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
-
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Anaconda](https://anaconda.org/anaconda/anaconda/badges/version.svg)
 
 
 

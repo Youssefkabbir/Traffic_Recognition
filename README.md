@@ -5,6 +5,11 @@
 
 [![Downloads](https://img.shields.io/badge/Opencv-install-green)](https://pypi.org/project/opencv-python)
 [![Anaconda](https://img.shields.io/badge/%20download-numpy-brightgreen?style=flat&logo=numpy&logoColor=rgb)](https://pypi.org/project/numpy/)
+[![Anaconda](https://img.shields.io/badge/%20pandas-install-brightgreen?style=flat&logo=pandas&logoColor=rgb)](https://pypi.org/project/pandas/)
+[![Anaconda](https://img.shields.io/badge/%20matplotlib-install-brightgreen?style=flat&logo=matplotlib&logoColor=rgb)](https://pypi.org/project/matplotlib/)
+[![Anaconda](https://img.shields.io/badge/%20tensorflow-install-brightgreen?style=flat&logo=tensorflow&logoColor=rgb)](https://pypi.org/project/tensorflow/)
+[![Anaconda](https://img.shields.io/badge/%20opencv-install-brightgreen?style=flat&logo=opencv&logoColor=rgb)](https://pypi.org/project/opencv/)
+
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 [![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
